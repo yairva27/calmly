@@ -1,3 +1,5 @@
+#Privacy Policy
+
 Calmly respects your privacy.
 
 The app does not require users to create an account and does not collect personal information such as names, email addresses, or location data.
